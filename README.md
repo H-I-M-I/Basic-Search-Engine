@@ -28,7 +28,3 @@ This repository contains implementations of various data mining tasks such as fr
 - Calculated a **term-term correlation matrix** to discover hidden relationships among terms.
 - Updated the search engine to utilize TF-IDF weights and performed a comparative analysis of ranking positions with the previous version.
 - Displayed the top 10 results for queries and analyzed rank displacement for the top 50 results.
-
-## Requirements
-- Python 3.x
-- Libraries: `numpy`, `pandas`, `scikit-learn`
